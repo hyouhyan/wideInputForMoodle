@@ -1,0 +1,5 @@
+.path-mod-quiz input[size]{
+    width: 300px;
+    min-width: 30%;
+    max-width: 100%;
+}
