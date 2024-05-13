@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Wide Input For Moodle",
-  "version": "0.0.1",
+  "version": "1.0.1",
 
   "description": "MoodleのInputフィールドの横幅が広がる。", 
 
@@ -14,5 +14,5 @@
     }
   ],
 
-  "homepage_url":"https://hyouhyan.notion.site/Moodle-wideInput-d27ec21c723f4506bba962f025430b84"
+  "homepage_url":"https://github.com/hyouhyan/wideInputForMoodle"
 }
