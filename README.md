@@ -16,7 +16,7 @@
 
 ## 1. 拡張機能をダウンロード
 
-[GitHubのRelease欄](https://github.com/hyouhyan/VC-Notice/releases/latest)から、**wideInputForMoodle.zip**をダウンロードします
+[GitHubのRelease欄](https://github.com/hyouhyan/wideInputForMoodle/releases/latest)から、**wideInputForMoodle.zip**をダウンロードします
 
 ![スクリーンショット](src/2024-05-13%2016.17.05%20github.com%207b52d4dcf8a6.png)
 
