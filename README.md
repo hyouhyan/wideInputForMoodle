@@ -1,9 +1,5 @@
 # Moodle拡張機能 wideInput
 
-タグ: AIT
-作成日時: 2023年6月1日 0:22
-最終更新日時: 2024年5月11日 20:28
-
 この拡張機能を利用すると、Moodleの**入力フィールドの横幅**が広がります。
 
 自分の回答が見やすくなるので、見直しや共有に役立ちます。
@@ -20,11 +16,8 @@
 
 ## 1. 拡張機能をダウンロード
 
-以下からOneDriveにアクセスし、**wideInputForMoodle.zip**をダウンロードします
+GitHubのRelease欄から、**wideInputForMoodle.zip**をダウンロードします
 
-**※愛工大アカウントでのログイン必須**
-
-https://itcait-my.sharepoint.com/:u:/g/personal/k22047kk_aitech_ac_jp/EenzLUg2IK5DgSDhhacSXvkBcdJSCw2mjbeajQnUddgPeg?e=hvbscj
 
 ![_2023-06-01 1.59.23.gif](Moodle%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD%20wideInput%20d27ec21c723f4506bba962f025430b84/_2023-06-01_1.59.23.gif)
 
