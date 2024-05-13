@@ -1,0 +1,2 @@
+# wideInputForMoodle
+MoodleのInput欄をワイドにするChrome拡張機能
