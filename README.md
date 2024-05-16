@@ -1,4 +1,4 @@
-# Moodle拡張機能 wideInput
+# Moodle拡張機能 [wideInputForMoodle](https://github.com/hyouhyan/wideInputForMoodle)
 
 この拡張機能を利用すると、Moodleの**入力フィールドの横幅**が広がります。  
 自分の回答が見やすくなるので、見直しや共有に役立ちます。
